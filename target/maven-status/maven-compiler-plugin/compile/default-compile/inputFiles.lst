@@ -1,0 +1,14 @@
+/Users/bobur/Downloads/coding--VERMIETET--master/src/main/java/hometask/vermietet/dto/VillageDto.java
+/Users/bobur/Downloads/coding--VERMIETET--master/src/main/java/hometask/vermietet/repository/DeviceRepository.java
+/Users/bobur/Downloads/coding--VERMIETET--master/src/main/java/hometask/vermietet/service/ElectricCounterService.java
+/Users/bobur/Downloads/coding--VERMIETET--master/src/main/java/hometask/vermietet/dto/DeviceCounterCreateResponse.java
+/Users/bobur/Downloads/coding--VERMIETET--master/src/main/java/hometask/vermietet/service/DeviceService.java
+/Users/bobur/Downloads/coding--VERMIETET--master/src/main/java/hometask/vermietet/service/ApartmentService.java
+/Users/bobur/Downloads/coding--VERMIETET--master/src/main/java/hometask/vermietet/domain/Device.java
+/Users/bobur/Downloads/coding--VERMIETET--master/src/main/java/hometask/vermietet/repository/ApartmentRepository.java
+/Users/bobur/Downloads/coding--VERMIETET--master/src/main/java/hometask/vermietet/dto/ConsumptionResponse.java
+/Users/bobur/Downloads/coding--VERMIETET--master/src/main/java/hometask/vermietet/inmemory/Memory.java
+/Users/bobur/Downloads/coding--VERMIETET--master/src/main/java/hometask/vermietet/controller/DeviceManagerController.java
+/Users/bobur/Downloads/coding--VERMIETET--master/src/main/java/hometask/vermietet/dto/DeviceCounterCreateRequest.java
+/Users/bobur/Downloads/coding--VERMIETET--master/src/main/java/hometask/vermietet/domain/Apartment.java
+/Users/bobur/Downloads/coding--VERMIETET--master/src/main/java/hometask/vermietet/App.java

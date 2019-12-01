@@ -1,0 +1,14 @@
+hometask/vermietet/App.class
+hometask/vermietet/dto/DeviceCounterCreateRequest.class
+hometask/vermietet/inmemory/Memory.class
+hometask/vermietet/controller/DeviceManagerController.class
+hometask/vermietet/dto/ConsumptionResponse.class
+hometask/vermietet/dto/DeviceCounterCreateResponse.class
+hometask/vermietet/repository/ApartmentRepository.class
+hometask/vermietet/repository/DeviceRepository.class
+hometask/vermietet/service/ElectricCounterService.class
+hometask/vermietet/domain/Apartment.class
+hometask/vermietet/dto/VillageDto.class
+hometask/vermietet/service/ApartmentService.class
+hometask/vermietet/domain/Device.class
+hometask/vermietet/service/DeviceService.class
